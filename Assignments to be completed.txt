@@ -1,0 +1,3 @@
+1) Pending file operations
+2) Learn SQL query from W3Schools.com and then practise the crud operation mentioned python
+3) Chatting Communication with half duplex communication
